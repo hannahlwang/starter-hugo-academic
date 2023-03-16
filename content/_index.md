@@ -43,7 +43,7 @@ sections:
         - title: Program Officer for Digital Infrastructure
           company: Educopia Institute
           company_url: 'https://educopia.org/'
-          company_logo: org-edu
+          company_logo: org-gc
           location: 
           date_start: '2020-01-13'
           date_end: ''
