@@ -5,7 +5,8 @@ avatar_filename: avatar.jpg
 bio: short biography
 interests: []
 social: []
-organizations: []
+organizations:
+  - name: Educopia Institute
 education:
   courses: []
 superuser: true
