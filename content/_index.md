@@ -71,7 +71,8 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: '2015-08-01'
+        - certificate_url: 
+          date_end: '2015-08-01'
           date_start: ''
           description: '2017-05-01'
           organization: UNC-Chapel Hill School of Information and Library Science
